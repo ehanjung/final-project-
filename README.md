@@ -22,3 +22,6 @@ imagenet.py \
   --input_blob=input_0 \
   --output_blob=output_0 \
   $DATASET/test/apple/image_1.jpg output.jpg
+
+link to video:
+https://drive.google.com/file/d/1qlxYssMZr3MmSyfVy0yHMHl1T3vtmdB7/view?usp=sharing
